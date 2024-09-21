@@ -5,4 +5,24 @@
          <lastmod>2024-09-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>http://doc.recticon.xyz/cddoc/01QuickStart/</loc>
+         <lastmod>2024-09-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://doc.recticon.xyz/cddoc/02License/</loc>
+         <lastmod>2024-09-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://doc.recticon.xyz/cddoc/03About/</loc>
+         <lastmod>2024-09-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://doc.recticon.xyz/cddoc/04Download/</loc>
+         <lastmod>2024-09-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
